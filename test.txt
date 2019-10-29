@@ -1,5 +1,6 @@
 1 hello here is the beginning of the git test file
-2 
+2 After commit I have not modified
+ 
 3
 4
 
